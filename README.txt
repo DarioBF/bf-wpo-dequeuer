@@ -17,6 +17,8 @@ This plugin allows you to easily dequeue styles and scripts from your site’s q
 
 It also allows you to check which ones are called from the Archive, Single, Page and Frontpage templates of your site.
 
+Once you used it, you can copy&paste generated code to your plugin or theme files.
+
 This plugin can break your site frontend, so be careful when using it. If you don’t know what you are doing, please don’t use this plugin.
 
 == Installation ==
@@ -33,13 +35,16 @@ Serialized as an unique array.
 
 = What happens if I uninstall the plugin =
 
-It uses the deactivate method of WordPress and removes the information on the database, keeping it clean.
+It uses the WordPress' deactivate method and removes the information stored on the database, keeping it clean.
 
 == Screenshots ==
 
 1. This is how the backend of the plugin looks like. You'll can configure all the aspects through one single configuration page.
 
 == Changelog ==
+
+= 1.1.0 =
+* Added code generator
 
 = 1.0.1 =
 * Fixed a little bug with Scripts Runner
