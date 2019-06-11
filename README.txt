@@ -43,6 +43,9 @@ It uses the WordPress' deactivate method and removes the information stored on t
 
 == Changelog ==
 
+= 1.1.1 =
+* Fixed some hardcoded strings for translation
+
 = 1.1.0 =
 * Added code generator
 

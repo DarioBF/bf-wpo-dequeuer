@@ -16,7 +16,7 @@ class BF_WPO_Dequeuer {
     public function __construct() {
 
         $this->plugin_slug = 'bf-wpo-dequeuer';
-        $this->version = '1.1.0';
+        $this->version = '1.1.1';
 
         $this->load_dependencies();
         $this->define_admin_hooks();

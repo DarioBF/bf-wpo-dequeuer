@@ -3,7 +3,7 @@
  * Plugin Name:       BF WPO Dequeuer
  * Plugin URI:        https://www.dariobf.com/wpo-dequeuer
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.1.0
+ * Version:           1.1.1
  * Author:            DarioBF
  * Author URI:        https://www.dariobf.com
  * License:           GPL-2.0+
