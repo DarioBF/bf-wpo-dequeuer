@@ -1,10 +1,10 @@
 === BF WPO Dequeuer ===
 Contributors: dariobf
 Donate Link: https://www.dariobf.com/donate
-Tags: wpo, optimization
+Tags: wpo, optimization, testing
 Requires at least: 5.0
-Tested up to: 5.2
-Stable tag: 5.1
+Tested up to: 5.5
+Stable tag: 5.4
 Requires PHP: 7.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -42,6 +42,9 @@ It uses the WordPress' deactivate method and removes the information stored on t
 1. This is how the backend of the plugin looks like. You'll can configure all the aspects through one single configuration page.
 
 == Changelog ==
+
+= 1.1.2 =
+* Reviewed for compatibility
 
 = 1.1.1 =
 * Fixed some hardcoded strings for translation
